@@ -1,0 +1,1 @@
+A simple todo list made from Typescript, Node.js And Inquirer.
